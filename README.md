@@ -66,12 +66,12 @@ Add this to `~/.config/alacritty/alacritty.yml`
 colors:
   # Default colors
   primary:
-    background: "0x1E1E3F"
-    foreground: "0xE1EFFF"
+    background: "0x32274C"
+    foreground: "0xFEE9F0"
 
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:
-    text: "0x1E1E3F"
+    text: "0x2A1A3B"
     cursor: "0xFAD000"
 
   # Normal colors
@@ -94,7 +94,7 @@ colors:
     blue: "0x6943FF"
     magenta: "0xFB94FF"
     cyan: "0x80FCFF"
-    white: "0x2D2B55"
+    white: "0x32274C"
 ```
 
 For other terminal emulators [check here](https://github.com/ahmadawais/shades-of-purple-vscode#put-shades-of-purple-in-other-places)
