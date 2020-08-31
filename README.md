@@ -88,7 +88,7 @@ colors:
   # Bright colors
   bright:
     black: "0x5C5C61"
-    red: "0xEC3A37F5"
+    red: "0xEC3A37"
     green: "0x3AD900"
     yellow: "0xFAD000"
     blue: "0x6943FF"
